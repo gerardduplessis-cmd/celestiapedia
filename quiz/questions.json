@@ -1,5 +1,5 @@
 {
- "version": 7,
+ "version": 8,
  "updated": "2026-11-28",
  "questions": [
   {
@@ -6609,6 +6609,1554 @@
    "fact": "NASA was created in 1958, the year after Sputnik.",
    "source": "NASA History",
    "spacepedia": "space-agencies"
+  },
+  {
+   "id": "moon-E-027",
+   "topic": "moon",
+   "level": "explorer",
+   "q": "What do we call the Moon when we cannot see any of its lit side?",
+   "options": [
+    "Half Moon",
+    "Blue Moon",
+    "New Moon",
+    "Full Moon"
+   ],
+   "answer": 2,
+   "fact": "At New Moon the lit half faces away from us, so the Moon is hidden in the Sun's glare.",
+   "source": "NASA Moon Phases",
+   "spacepedia": "moon"
+  },
+  {
+   "id": "moon-E-028",
+   "topic": "moon",
+   "level": "explorer",
+   "q": "What shape does the Moon have when it is fully lit?",
+   "options": [
+    "A square",
+    "A triangle",
+    "A crescent",
+    "A full circle"
+   ],
+   "answer": 3,
+   "fact": "At Full Moon the whole face we see is lit by the Sun.",
+   "source": "NASA Moon Phases",
+   "spacepedia": "moon"
+  },
+  {
+   "id": "moon-E-029",
+   "topic": "moon",
+   "level": "explorer",
+   "q": "Is there air on the Moon that we can breathe?",
+   "options": [
+    "Yes, a little",
+    "No",
+    "Yes, lots",
+    "Only near craters"
+   ],
+   "answer": 1,
+   "fact": "The Moon has almost no atmosphere, so astronauts need spacesuits.",
+   "source": "NASA Moon Facts",
+   "spacepedia": "moon"
+  },
+  {
+   "id": "moon-E-030",
+   "topic": "moon",
+   "level": "explorer",
+   "q": "What are the footprints left by Apollo astronauts on the Moon likely to do?",
+   "options": [
+    "Blow away in the wind",
+    "Melt in the sun",
+    "Wash away in the rain",
+    "Stay for a very long time"
+   ],
+   "answer": 3,
+   "fact": "There is no wind or rain on the Moon, so the footprints can last millions of years.",
+   "source": "NASA Moon Facts",
+   "spacepedia": "moon"
+  },
+  {
+   "id": "moon-E-031",
+   "topic": "moon",
+   "level": "explorer",
+   "q": "Which is bigger, the Moon or Earth?",
+   "options": [
+    "The Moon is bigger in winter",
+    "They are the same",
+    "The Moon",
+    "Earth"
+   ],
+   "answer": 3,
+   "fact": "Earth is about four times wider than the Moon.",
+   "source": "NASA Moon Facts",
+   "spacepedia": "moon"
+  },
+  {
+   "id": "moon-E-032",
+   "topic": "moon",
+   "level": "explorer",
+   "q": "Who first walked on the Moon?",
+   "options": [
+    "Yuri Gagarin",
+    "Neil Armstrong",
+    "Buzz Aldrin",
+    "Alan Shepard"
+   ],
+   "answer": 1,
+   "fact": "Neil Armstrong stepped out first on 20 July 1969.",
+   "source": "NASA Apollo 11",
+   "spacepedia": "apollo-11"
+  },
+  {
+   "id": "moon-E-033",
+   "topic": "moon",
+   "level": "explorer",
+   "q": "Why would you weigh less on the Moon?",
+   "options": [
+    "Its gravity is weaker",
+    "It is smaller than the Sun",
+    "It is colder",
+    "It has no air"
+   ],
+   "answer": 0,
+   "fact": "Moon gravity is about one sixth of Earth's, so you would feel much lighter.",
+   "source": "NASA Moon Facts",
+   "spacepedia": "moon"
+  },
+  {
+   "id": "moon-X-026",
+   "topic": "moon",
+   "level": "expert",
+   "q": "About how strong is gravity on the Moon compared with Earth?",
+   "options": [
+    "Twice as strong",
+    "About half",
+    "About one sixth",
+    "The same"
+   ],
+   "answer": 2,
+   "fact": "A 60 kg person would weigh about 10 kg on the Moon.",
+   "source": "NASA Moon Facts",
+   "spacepedia": "moon"
+  },
+  {
+   "id": "moon-X-027",
+   "topic": "moon",
+   "level": "expert",
+   "q": "About how long is a day-night cycle on the Moon, from one sunrise to the next?",
+   "options": [
+    "About 29.5 Earth days",
+    "About 1 year",
+    "About 7 days",
+    "About 24 hours"
+   ],
+   "answer": 0,
+   "fact": "Because the Moon spins slowly, daytime and night each last about two weeks.",
+   "source": "NASA Moon Facts",
+   "spacepedia": "moon"
+  },
+  {
+   "id": "moon-X-028",
+   "topic": "moon",
+   "level": "expert",
+   "q": "What is the name of the dusty layer of broken rock covering the Moon?",
+   "options": [
+    "Regolith",
+    "Magma",
+    "Loam",
+    "Granite"
+   ],
+   "answer": 0,
+   "fact": "Regolith is broken rock and dust, made by billions of years of impacts.",
+   "source": "NASA Moon Facts",
+   "spacepedia": "moon"
+  },
+  {
+   "id": "moon-X-029",
+   "topic": "moon",
+   "level": "expert",
+   "q": "What is thought to be the origin of the Moon?",
+   "options": [
+    "Captured from Mars",
+    "A giant impact on early Earth",
+    "Made from Earth's oceans",
+    "A comet that stayed"
+   ],
+   "answer": 1,
+   "fact": "Scientists think a Mars-sized body hit the young Earth and the debris formed the Moon.",
+   "source": "NASA Moon Facts",
+   "spacepedia": "moon"
+  },
+  {
+   "id": "moon-X-030",
+   "topic": "moon",
+   "level": "expert",
+   "q": "Which Moon region did Apollo 11 land in?",
+   "options": [
+    "Tycho crater",
+    "Sea of Tranquility",
+    "Sea of Rains",
+    "Ocean of Storms"
+   ],
+   "answer": 1,
+   "fact": "Mare Tranquillitatis is a dark lava plain on the near side.",
+   "source": "NASA Apollo 11",
+   "spacepedia": "apollo-11"
+  },
+  {
+   "id": "moon-X-031",
+   "topic": "moon",
+   "level": "expert",
+   "q": "What does a blue Moon mean?",
+   "options": [
+    "A Moon in a solar eclipse",
+    "A very close Moon",
+    "A Moon that is really blue",
+    "The second full Moon in one month"
+   ],
+   "answer": 3,
+   "fact": "It is rare, but it does not change the Moon's colour.",
+   "source": "NASA Moon Phases",
+   "spacepedia": "moon"
+  },
+  {
+   "id": "moon-X-032",
+   "topic": "moon",
+   "level": "expert",
+   "q": "Why is a lunar eclipse safe to look at without special glasses?",
+   "options": [
+    "Eclipses are never dangerous",
+    "The Moon is only reflecting dim light",
+    "It happens at night so the Sun is hidden",
+    "The Moon blocks the Sun"
+   ],
+   "answer": 1,
+   "fact": "A lunar eclipse is just Earth's shadow on the Moon, so it is safe, unlike looking at the Sun.",
+   "source": "NASA Eclipses",
+   "spacepedia": "lunar-eclipses"
+  },
+  {
+   "id": "planets-E-027",
+   "topic": "planets",
+   "level": "explorer",
+   "q": "Which planet is called the Blue Planet?",
+   "options": [
+    "Neptune",
+    "Uranus",
+    "Venus",
+    "Earth"
+   ],
+   "answer": 3,
+   "fact": "Earth looks blue from space because oceans cover most of it.",
+   "source": "NASA Earth Facts",
+   "spacepedia": "earth"
+  },
+  {
+   "id": "planets-E-028",
+   "topic": "planets",
+   "level": "explorer",
+   "q": "Which planet has the most obvious rings?",
+   "options": [
+    "Earth",
+    "Saturn",
+    "Mercury",
+    "Mars"
+   ],
+   "answer": 1,
+   "fact": "Saturn's rings are made of ice and rock, from tiny grains to big chunks.",
+   "source": "NASA Saturn Facts",
+   "spacepedia": "saturn"
+  },
+  {
+   "id": "planets-E-029",
+   "topic": "planets",
+   "level": "explorer",
+   "q": "How many moons does Earth have?",
+   "options": [
+    "Two",
+    "None",
+    "One",
+    "Four"
+   ],
+   "answer": 2,
+   "fact": "Earth has one natural moon.",
+   "source": "NASA Moon Facts",
+   "spacepedia": "moon"
+  },
+  {
+   "id": "planets-E-030",
+   "topic": "planets",
+   "level": "explorer",
+   "q": "Which planet has a Great Red Spot?",
+   "options": [
+    "Mars",
+    "Saturn",
+    "Venus",
+    "Jupiter"
+   ],
+   "answer": 3,
+   "fact": "The spot is a giant storm that has been raging for hundreds of years.",
+   "source": "NASA Jupiter Facts",
+   "spacepedia": "jupiter"
+  },
+  {
+   "id": "planets-E-031",
+   "topic": "planets",
+   "level": "explorer",
+   "q": "What is the name of Mars's biggest volcano?",
+   "options": [
+    "Olympus Mons",
+    "Mount Everest",
+    "Mauna Kea",
+    "Vesuvius"
+   ],
+   "answer": 0,
+   "fact": "Olympus Mons is about two and a half times taller than Mount Everest.",
+   "source": "NASA Mars Facts",
+   "spacepedia": "mars"
+  },
+  {
+   "id": "planets-E-032",
+   "topic": "planets",
+   "level": "explorer",
+   "q": "Which planet is nicknamed the Morning Star or Evening Star?",
+   "options": [
+    "Venus",
+    "Mercury",
+    "Mars",
+    "Jupiter"
+   ],
+   "answer": 0,
+   "fact": "Venus is very bright and appears near the Sun, just before sunrise or after sunset.",
+   "source": "NASA Venus Facts",
+   "spacepedia": "venus"
+  },
+  {
+   "id": "planets-X-027",
+   "topic": "planets",
+   "level": "expert",
+   "q": "Which planet has the shortest year?",
+   "options": [
+    "Venus",
+    "Mercury",
+    "Earth",
+    "Mars"
+   ],
+   "answer": 1,
+   "fact": "Mercury circles the Sun in just 88 Earth days.",
+   "source": "NASA Mercury Facts",
+   "spacepedia": "mercury"
+  },
+  {
+   "id": "planets-X-028",
+   "topic": "planets",
+   "level": "expert",
+   "q": "Which planet's Great Red Spot is shrinking and about as big as Earth?",
+   "options": [
+    "Neptune",
+    "Mars",
+    "Jupiter",
+    "Saturn"
+   ],
+   "answer": 2,
+   "fact": "The storm has shrunk over the last century but is still wider than Earth.",
+   "source": "NASA Jupiter Facts",
+   "spacepedia": "jupiter"
+  },
+  {
+   "id": "planets-X-029",
+   "topic": "planets",
+   "level": "expert",
+   "q": "Which rover found signs of an ancient lake in Gale Crater?",
+   "options": [
+    "Opportunity",
+    "Sojourner",
+    "Curiosity",
+    "Voyager"
+   ],
+   "answer": 2,
+   "fact": "Curiosity landed in 2012 and found rocks formed in a lake with water that could have supported microbes.",
+   "source": "NASA Curiosity",
+   "spacepedia": "curiosity"
+  },
+  {
+   "id": "planets-X-030",
+   "topic": "planets",
+   "level": "expert",
+   "q": "Which two planets are called ice giants?",
+   "options": [
+    "Mars and Venus",
+    "Jupiter and Saturn",
+    "Earth and Mercury",
+    "Uranus and Neptune"
+   ],
+   "answer": 3,
+   "fact": "Uranus and Neptune are made mostly of water, ammonia and methane ices around a rocky core.",
+   "source": "NASA Uranus Facts",
+   "spacepedia": "uranus"
+  },
+  {
+   "id": "planets-X-031",
+   "topic": "planets",
+   "level": "expert",
+   "q": "Why does Mars have seasons?",
+   "options": [
+    "It has two moons",
+    "Its axis is tilted",
+    "It is close to the Sun",
+    "It has oceans"
+   ],
+   "answer": 1,
+   "fact": "Mars has a tilt similar to Earth's, so it has seasons, though each is about twice as long.",
+   "source": "NASA Mars Facts",
+   "spacepedia": "mars"
+  },
+  {
+   "id": "planets-X-032",
+   "topic": "planets",
+   "level": "expert",
+   "q": "What is the name of the thick atmosphere gas on Venus?",
+   "options": [
+    "Nitrogen only",
+    "Helium",
+    "Oxygen",
+    "Carbon dioxide"
+   ],
+   "answer": 3,
+   "fact": "Venus's air is mostly carbon dioxide, which traps heat.",
+   "source": "NASA Venus Facts",
+   "spacepedia": "venus"
+  },
+  {
+   "id": "planets-X-033",
+   "topic": "planets",
+   "level": "expert",
+   "q": "Which spacecraft first visited all four giant planets?",
+   "options": [
+    "Galileo",
+    "Voyager 2",
+    "Voyager 1",
+    "Cassini"
+   ],
+   "answer": 1,
+   "fact": "Voyager 2 flew past Jupiter, Saturn, Uranus and Neptune between 1979 and 1989.",
+   "source": "NASA Voyager",
+   "spacepedia": "voyager-1"
+  },
+  {
+   "id": "sun-stars-E-027",
+   "topic": "sun-stars",
+   "level": "explorer",
+   "q": "What are sunspots?",
+   "options": [
+    "Planets crossing the Sun",
+    "Clouds on the Sun",
+    "Holes in the Sun",
+    "Cooler, darker patches on the Sun"
+   ],
+   "answer": 3,
+   "fact": "Sunspots look dark because they are cooler than the surrounding surface. Never look at the Sun without proper eye protection.",
+   "source": "NASA Sun Facts",
+   "spacepedia": "sun"
+  },
+  {
+   "id": "sun-stars-E-028",
+   "topic": "sun-stars",
+   "level": "explorer",
+   "q": "Which star is also called the North Star?",
+   "options": [
+    "The Sun",
+    "Polaris",
+    "Sirius",
+    "Vega"
+   ],
+   "answer": 1,
+   "fact": "Polaris sits almost directly above Earth's North Pole, so it stays still while other stars turn.",
+   "source": "NASA Polaris",
+   "spacepedia": "polaris"
+  },
+  {
+   "id": "sun-stars-E-029",
+   "topic": "sun-stars",
+   "level": "explorer",
+   "q": "What do we call the Sun's outer atmosphere that we see during a total eclipse?",
+   "options": [
+    "The crust",
+    "The surface",
+    "The corona",
+    "The core"
+   ],
+   "answer": 2,
+   "fact": "The corona is a glowing halo of thin hot gas that is usually hidden by the Sun's bright disc.",
+   "source": "NASA Eclipses",
+   "spacepedia": "solar-eclipses"
+  },
+  {
+   "id": "sun-stars-E-030",
+   "topic": "sun-stars",
+   "level": "explorer",
+   "q": "What are the beautiful lights near Earth's poles called?",
+   "options": [
+    "Rainbows",
+    "Auroras",
+    "Comets",
+    "Meteors"
+   ],
+   "answer": 1,
+   "fact": "Auroras happen when particles from the Sun hit Earth's air.",
+   "source": "NASA Aurora",
+   "spacepedia": "aurora"
+  },
+  {
+   "id": "sun-stars-E-031",
+   "topic": "sun-stars",
+   "level": "explorer",
+   "q": "Which star group has three stars in a row forming Orion's Belt?",
+   "options": [
+    "Orion",
+    "Ursa Major",
+    "Cassiopeia",
+    "Crux"
+   ],
+   "answer": 0,
+   "fact": "Orion is one of the easiest constellations to spot.",
+   "source": "NASA Constellations",
+   "spacepedia": "orion-nebula"
+  },
+  {
+   "id": "sun-stars-X-025",
+   "topic": "sun-stars",
+   "level": "expert",
+   "q": "What do we call a star's explosion at the end of its life?",
+   "options": [
+    "A flare",
+    "A blast wave only",
+    "A supernova",
+    "A nova bar"
+   ],
+   "answer": 2,
+   "fact": "A supernova can outshine a whole galaxy for a short time.",
+   "source": "NASA Supernovae",
+   "spacepedia": "supernovae"
+  },
+  {
+   "id": "sun-stars-X-026",
+   "topic": "sun-stars",
+   "level": "expert",
+   "q": "What will happen to our Sun at the end of its life?",
+   "options": [
+    "It will become a black hole",
+    "It will explode as a supernova",
+    "It will just go dark at once",
+    "It will swell into a red giant, then shrink to a white dwarf"
+   ],
+   "answer": 3,
+   "fact": "The Sun is not heavy enough to explode. It will end up as a white dwarf.",
+   "source": "NASA Sun Facts",
+   "spacepedia": "sun"
+  },
+  {
+   "id": "sun-stars-X-027",
+   "topic": "sun-stars",
+   "level": "expert",
+   "q": "What are the solar wind particles?",
+   "options": [
+    "Space dust",
+    "Cold air",
+    "Light from the Sun",
+    "Charged particles streaming from the Sun"
+   ],
+   "answer": 3,
+   "fact": "The solar wind flows past Earth at hundreds of kilometres per second.",
+   "source": "NASA Solar Wind",
+   "spacepedia": "solar-wind"
+  },
+  {
+   "id": "sun-stars-X-028",
+   "topic": "sun-stars",
+   "level": "expert",
+   "q": "Which probe flies closest to the Sun?",
+   "options": [
+    "Hubble",
+    "Juno",
+    "Voyager 1",
+    "Parker Solar Probe"
+   ],
+   "answer": 3,
+   "fact": "Parker Solar Probe flies through the Sun's outer atmosphere.",
+   "source": "NASA Parker Solar Probe",
+   "spacepedia": "parker-solar-probe"
+  },
+  {
+   "id": "sun-stars-X-029",
+   "topic": "sun-stars",
+   "level": "expert",
+   "q": "About how far is the Sun from Earth?",
+   "options": [
+    "About 150,000 km",
+    "About 1.5 billion km",
+    "About 150 million km",
+    "About 15 million km"
+   ],
+   "answer": 2,
+   "fact": "That distance is called one astronomical unit, or 1 AU.",
+   "source": "NASA Sun Facts",
+   "spacepedia": "sun"
+  },
+  {
+   "id": "rockets-E-027",
+   "topic": "rockets",
+   "level": "explorer",
+   "q": "What is the very loud flame coming out of a rocket's bottom called?",
+   "options": [
+    "Fireworks",
+    "Steam",
+    "Exhaust",
+    "Sparks"
+   ],
+   "answer": 2,
+   "fact": "Rocket exhaust is hot gas shooting out the nozzle, pushing the rocket in the other direction.",
+   "source": "NASA Rocket Principles",
+   "spacepedia": "falcon-9"
+  },
+  {
+   "id": "rockets-E-028",
+   "topic": "rockets",
+   "level": "explorer",
+   "q": "Which company's rockets can land and be launched again, with landing legs?",
+   "options": [
+    "Apple",
+    "SpaceX",
+    "The Moon Co",
+    "Netflix"
+   ],
+   "answer": 1,
+   "fact": "Falcon 9's first stage lands back on land or on a ship at sea.",
+   "source": "SpaceX Falcon 9",
+   "spacepedia": "falcon-9",
+   "rocket": "falcon-9"
+  },
+  {
+   "id": "rockets-E-029",
+   "topic": "rockets",
+   "level": "explorer",
+   "q": "What happens when you count down to zero?",
+   "options": [
+    "The rocket is built",
+    "The rocket lands",
+    "The rocket turns off",
+    "The rocket lifts off"
+   ],
+   "answer": 3,
+   "fact": "Mission control counts down to the moment the engines ignite and the rocket leaves the pad.",
+   "source": "NASA Launch",
+   "spacepedia": "falcon-9"
+  },
+  {
+   "id": "rockets-E-030",
+   "topic": "rockets",
+   "level": "explorer",
+   "q": "Which is taller, the Falcon 9 rocket or a school bus?",
+   "options": [
+    "Falcon 9",
+    "They are the same height",
+    "A school bus",
+    "A small car"
+   ],
+   "answer": 0,
+   "fact": "Falcon 9 is about 70 metres tall, many times longer than a bus.",
+   "source": "SpaceX Falcon 9",
+   "spacepedia": "falcon-9",
+   "rocket": "falcon-9"
+  },
+  {
+   "id": "rockets-E-031",
+   "topic": "rockets",
+   "level": "explorer",
+   "q": "What do rockets carry that jet planes take from the air?",
+   "options": [
+    "A runway",
+    "Wings",
+    "Wheels",
+    "Oxygen"
+   ],
+   "answer": 3,
+   "fact": "Rockets carry their own oxidiser, so they can burn fuel in space where there is no air.",
+   "source": "NASA Rocket Principles",
+   "spacepedia": "falcon-9"
+  },
+  {
+   "id": "rockets-E-032",
+   "topic": "rockets",
+   "level": "explorer",
+   "q": "What is the biggest rocket SpaceX is building to fly people to Mars?",
+   "options": [
+    "Electron",
+    "Vega",
+    "Falcon 1",
+    "Starship"
+   ],
+   "answer": 3,
+   "fact": "Starship and its Super Heavy booster are designed to be fully reusable.",
+   "source": "SpaceX Starship",
+   "rocket": "starship"
+  },
+  {
+   "id": "rockets-X-026",
+   "topic": "rockets",
+   "level": "expert",
+   "q": "Which rocket carried Yuri Gagarin into space?",
+   "options": [
+    "Vostok",
+    "Ariane 5",
+    "Saturn V",
+    "Falcon 9"
+   ],
+   "answer": 0,
+   "fact": "The Vostok rocket carried the Vostok 1 capsule into orbit on 12 April 1961.",
+   "source": "NASA Vostok",
+   "spacepedia": "valentina-tereshkova",
+   "rocket": "vostok"
+  },
+  {
+   "id": "rockets-X-027",
+   "topic": "rockets",
+   "level": "expert",
+   "q": "What is the escape velocity from Earth, about?",
+   "options": [
+    "About 100 km per second",
+    "About 1 km per second",
+    "About 300 km per second",
+    "About 11 km per second"
+   ],
+   "answer": 3,
+   "fact": "A spacecraft must travel about 11.2 km per second to leave Earth's gravity for good.",
+   "source": "NASA Rocket Principles"
+  },
+  {
+   "id": "rockets-X-028",
+   "topic": "rockets",
+   "level": "expert",
+   "q": "What does 'max Q' mean during a launch?",
+   "options": [
+    "The loudest moment",
+    "The fastest speed",
+    "The point of greatest air pressure on the rocket",
+    "The moment of engine cut-off"
+   ],
+   "answer": 2,
+   "fact": "Max Q is when the rocket is moving fast through still-thick air, putting the greatest stress on it.",
+   "source": "NASA Launch",
+   "spacepedia": "falcon-9"
+  },
+  {
+   "id": "rockets-X-029",
+   "topic": "rockets",
+   "level": "expert",
+   "q": "Why are rockets built in stages?",
+   "options": [
+    "To drop empty weight as they climb",
+    "To look taller",
+    "To carry more fuel tanks",
+    "To reduce noise"
+   ],
+   "answer": 0,
+   "fact": "Each stage drops away once it is empty, so the rest of the rocket does not have to lift that dead weight.",
+   "source": "NASA Rocket Basics",
+   "spacepedia": "falcon-9"
+  },
+  {
+   "id": "rockets-X-030",
+   "topic": "rockets",
+   "level": "expert",
+   "q": "Which rocket launched the James Webb Space Telescope?",
+   "options": [
+    "Atlas V",
+    "Ariane 5",
+    "Falcon 9",
+    "Soyuz"
+   ],
+   "answer": 1,
+   "fact": "An Ariane 5 launched Webb from French Guiana on 25 December 2021.",
+   "source": "NASA Webb",
+   "spacepedia": "jwst",
+   "rocket": "ariane-5"
+  },
+  {
+   "id": "rockets-X-031",
+   "topic": "rockets",
+   "level": "expert",
+   "q": "What was the Space Shuttle's launch stack made of?",
+   "options": [
+    "A rocket with wings only",
+    "A single stage",
+    "Only a capsule",
+    "Orbiter, big tank and two boosters"
+   ],
+   "answer": 3,
+   "fact": "The Shuttle stack had the orbiter, an orange external tank and two solid rocket boosters.",
+   "source": "NASA Space Shuttle",
+   "spacepedia": "space-shuttle",
+   "rocket": "space-shuttle"
+  },
+  {
+   "id": "rockets-X-032",
+   "topic": "rockets",
+   "level": "expert",
+   "q": "Why does French Guiana make a good launch site?",
+   "options": [
+    "It is very cold",
+    "It has no rain",
+    "It is near the equator",
+    "It is near the pole"
+   ],
+   "answer": 2,
+   "fact": "Close to the equator, Earth's spin gives rockets the biggest free speed boost.",
+   "source": "ESA Launch Sites",
+   "rocket": "ariane-5"
+  },
+  {
+   "id": "human-E-027",
+   "topic": "human",
+   "level": "explorer",
+   "q": "What do astronauts wear outside the spacecraft?",
+   "options": [
+    "A spacesuit",
+    "A swimsuit",
+    "A raincoat",
+    "A jumper"
+   ],
+   "answer": 0,
+   "fact": "A spacesuit gives air, warmth and protection in the vacuum of space.",
+   "source": "NASA Spacesuits",
+   "spacepedia": "iss"
+  },
+  {
+   "id": "human-E-028",
+   "topic": "human",
+   "level": "explorer",
+   "q": "Who was the first person in space?",
+   "options": [
+    "Neil Armstrong",
+    "Yuri Gagarin",
+    "Alan Shepard",
+    "John Glenn"
+   ],
+   "answer": 1,
+   "fact": "Gagarin orbited Earth once on 12 April 1961.",
+   "source": "NASA History",
+   "spacepedia": "iss",
+   "rocket": "vostok",
+   "capsule": "vostok"
+  },
+  {
+   "id": "human-E-029",
+   "topic": "human",
+   "level": "explorer",
+   "q": "How do astronauts sleep in space?",
+   "options": [
+    "In beds on the floor",
+    "They never sleep",
+    "Upside down hanging",
+    "In sleeping bags fixed to the wall"
+   ],
+   "answer": 3,
+   "fact": "Sleeping bags are attached so the astronauts do not float around the station.",
+   "source": "NASA ISS",
+   "spacepedia": "iss"
+  },
+  {
+   "id": "human-E-030",
+   "topic": "human",
+   "level": "explorer",
+   "q": "What do astronauts drink from?",
+   "options": [
+    "Bowls",
+    "Open cups",
+    "Glass bottles",
+    "Pouches with straws"
+   ],
+   "answer": 3,
+   "fact": "Liquids can float in blobs in free fall, so drinks are in sealed pouches.",
+   "source": "NASA ISS",
+   "spacepedia": "iss"
+  },
+  {
+   "id": "human-E-031",
+   "topic": "human",
+   "level": "explorer",
+   "q": "What is the name of NASA's programme to return people to the Moon?",
+   "options": [
+    "Gemini",
+    "Apollo",
+    "Mercury",
+    "Artemis"
+   ],
+   "answer": 3,
+   "fact": "Artemis is named after the twin sister of Apollo in Greek myth.",
+   "source": "NASA Artemis",
+   "spacepedia": "artemis"
+  },
+  {
+   "id": "human-E-032",
+   "topic": "human",
+   "level": "explorer",
+   "q": "Which American was the first to orbit Earth?",
+   "options": [
+    "John Glenn",
+    "Neil Armstrong",
+    "Alan Shepard",
+    "Buzz Aldrin"
+   ],
+   "answer": 0,
+   "fact": "John Glenn orbited Earth three times in Friendship 7 in 1962.",
+   "source": "NASA Mercury",
+   "spacepedia": "iss",
+   "rocket": "mercury",
+   "capsule": "mercury"
+  },
+  {
+   "id": "human-X-028",
+   "topic": "human",
+   "level": "expert",
+   "q": "How long can ISS crews stay in space on one mission?",
+   "options": [
+    "About two years",
+    "About one week",
+    "About one day",
+    "About six months"
+   ],
+   "answer": 3,
+   "fact": "Most ISS crew members stay about six months, and some stay a year.",
+   "source": "NASA ISS",
+   "spacepedia": "iss"
+  },
+  {
+   "id": "human-X-029",
+   "topic": "human",
+   "level": "expert",
+   "q": "How fast does the ISS travel around Earth?",
+   "options": [
+    "About 28,000 km/h",
+    "About 280,000 km/h",
+    "About 280 km/h",
+    "About 2,800 km/h"
+   ],
+   "answer": 0,
+   "fact": "That is about 7.7 kilometres every second, so it circles Earth every 90 minutes.",
+   "source": "NASA ISS",
+   "spacepedia": "iss"
+  },
+  {
+   "id": "human-X-030",
+   "topic": "human",
+   "level": "expert",
+   "q": "How high above Earth does the ISS orbit?",
+   "options": [
+    "About 40,000 km",
+    "About 400 km",
+    "About 40 km",
+    "About 4,000 km"
+   ],
+   "answer": 1,
+   "fact": "The ISS is in low Earth orbit, around 400 kilometres up.",
+   "source": "NASA ISS",
+   "spacepedia": "iss"
+  },
+  {
+   "id": "human-X-031",
+   "topic": "human",
+   "level": "expert",
+   "q": "What is a Soyuz?",
+   "options": [
+    "A Russian spacecraft that carries crews to the ISS",
+    "A rocket from China",
+    "A space telescope",
+    "An American capsule"
+   ],
+   "answer": 0,
+   "fact": "Soyuz has been carrying crews since the 1960s and is the longest-serving crewed spacecraft design.",
+   "source": "Roscosmos Soyuz",
+   "spacepedia": "iss",
+   "capsule": "soyuz"
+  },
+  {
+   "id": "deep-E-026",
+   "topic": "deep",
+   "level": "explorer",
+   "q": "What is the closest star beyond the Sun to us?",
+   "options": [
+    "Vega",
+    "Proxima Centauri",
+    "Polaris",
+    "Sirius"
+   ],
+   "answer": 1,
+   "fact": "Proxima Centauri is about 4.2 light-years away and part of the Alpha Centauri system.",
+   "source": "NASA Alpha Centauri",
+   "spacepedia": "alpha-centauri"
+  },
+  {
+   "id": "deep-E-027",
+   "topic": "deep",
+   "level": "explorer",
+   "q": "Which telescope has taken famous pictures of deep space since 1990?",
+   "options": [
+    "Hubble",
+    "Voyager",
+    "Juno",
+    "Cassini"
+   ],
+   "answer": 0,
+   "fact": "Hubble orbits Earth and sees space without the blur of our air.",
+   "source": "NASA Hubble",
+   "spacepedia": "hubble"
+  },
+  {
+   "id": "deep-E-028",
+   "topic": "deep",
+   "level": "explorer",
+   "q": "Which new space telescope sees infrared light and was launched in 2021?",
+   "options": [
+    "James Webb",
+    "Kepler",
+    "Spitzer",
+    "Hubble"
+   ],
+   "answer": 0,
+   "fact": "Webb is much bigger than Hubble and sits far from Earth.",
+   "source": "NASA Webb",
+   "spacepedia": "jwst"
+  },
+  {
+   "id": "deep-E-029",
+   "topic": "deep",
+   "level": "explorer",
+   "q": "What do astronomers call a star's baby cloud?",
+   "options": [
+    "A moon crib",
+    "A stellar nursery",
+    "A star cage",
+    "A comet nest"
+   ],
+   "answer": 1,
+   "fact": "New stars form in thick clouds of gas and dust, like the Orion Nebula.",
+   "source": "NASA Nebulae",
+   "spacepedia": "orion-nebula"
+  },
+  {
+   "id": "deep-E-030",
+   "topic": "deep",
+   "level": "explorer",
+   "q": "Which type of galaxy is the Milky Way?",
+   "options": [
+    "Spiral",
+    "Round blob",
+    "Ring",
+    "Square"
+   ],
+   "answer": 0,
+   "fact": "The Milky Way has spiral arms and our Sun sits in one of them.",
+   "source": "NASA Milky Way",
+   "spacepedia": "milky-way"
+  },
+  {
+   "id": "deep-X-029",
+   "topic": "deep",
+   "level": "expert",
+   "q": "How long does light from Andromeda take to reach us?",
+   "options": [
+    "About 2,500 years",
+    "About 2.5 years",
+    "About 25 days",
+    "About 2.5 million years"
+   ],
+   "answer": 3,
+   "fact": "We see Andromeda as it was 2.5 million years ago.",
+   "source": "NASA Andromeda",
+   "spacepedia": "andromeda"
+  },
+  {
+   "id": "deep-X-030",
+   "topic": "deep",
+   "level": "expert",
+   "q": "Which star cluster is nicknamed the Seven Sisters?",
+   "options": [
+    "Omega Centauri",
+    "The Pleiades",
+    "Orion's Belt",
+    "Cassiopeia"
+   ],
+   "answer": 1,
+   "fact": "The Pleiades is a young star cluster about 440 light-years away.",
+   "source": "NASA Pleiades",
+   "spacepedia": "pleiades"
+  },
+  {
+   "id": "deep-X-031",
+   "topic": "deep",
+   "level": "expert",
+   "q": "What did Webb's first deep field show?",
+   "options": [
+    "One star",
+    "The Moon",
+    "A comet",
+    "Thousands of galaxies in a tiny patch of sky"
+   ],
+   "answer": 3,
+   "fact": "Even a small patch of sky holds thousands of galaxies, some over 13 billion light-years away.",
+   "source": "NASA Webb",
+   "spacepedia": "jwst"
+  },
+  {
+   "id": "deep-X-032",
+   "topic": "deep",
+   "level": "expert",
+   "q": "What kind of object is the Crab Pulsar at the heart of the Crab Nebula?",
+   "options": [
+    "A planet",
+    "A black hole",
+    "A neutron star",
+    "A comet"
+   ],
+   "answer": 2,
+   "fact": "It is the leftover core of the star that exploded in 1054, spinning about 30 times a second.",
+   "source": "NASA Pulsars",
+   "spacepedia": "pulsars"
+  },
+  {
+   "id": "deep-X-033",
+   "topic": "deep",
+   "level": "expert",
+   "q": "What are gravitational waves?",
+   "options": [
+    "Sound in space",
+    "Waves on the Sun",
+    "Waves of light",
+    "Ripples in space-time"
+   ],
+   "answer": 3,
+   "fact": "They are made when massive objects such as black holes crash together.",
+   "source": "NASA Gravitational Waves",
+   "spacepedia": "gravitational-waves"
+  },
+  {
+   "id": "deep-X-034",
+   "topic": "deep",
+   "level": "expert",
+   "q": "What are the Magellanic Clouds?",
+   "options": [
+    "Storm clouds on Jupiter",
+    "Two comets",
+    "Small galaxies orbiting the Milky Way",
+    "Gas clouds around the Sun"
+   ],
+   "answer": 2,
+   "fact": "They are small galaxies that orbit the Milky Way and look like faint clouds.",
+   "source": "NASA Magellanic Clouds",
+   "spacepedia": "magellanic-clouds"
+  },
+  {
+   "id": "small-E-026",
+   "topic": "small",
+   "level": "explorer",
+   "q": "What is a shooting star really?",
+   "options": [
+    "A satellite",
+    "A star falling",
+    "A comet",
+    "A small rock burning up in our air"
+   ],
+   "answer": 3,
+   "fact": "Most are tiny grains of dust and rock, often smaller than a grain of sand.",
+   "source": "NASA Meteors",
+   "spacepedia": "perseids"
+  },
+  {
+   "id": "small-E-027",
+   "topic": "small",
+   "level": "explorer",
+   "q": "What is an asteroid?",
+   "options": [
+    "A star",
+    "A rocky leftover from the early Solar System",
+    "A ball of gas",
+    "A planet"
+   ],
+   "answer": 1,
+   "fact": "Most asteroids are in the belt between Mars and Jupiter.",
+   "source": "NASA Asteroids",
+   "spacepedia": "asteroid-belt"
+  },
+  {
+   "id": "small-E-028",
+   "topic": "small",
+   "level": "explorer",
+   "q": "What is the Sun's heat doing to a comet that makes its tail?",
+   "options": [
+    "Making it shrink",
+    "Freezing it",
+    "Burning it",
+    "Melting ice into gas and dust"
+   ],
+   "answer": 3,
+   "fact": "As a comet nears the Sun, ice turns to gas and carries dust into a bright tail.",
+   "source": "NASA Comets",
+   "spacepedia": "halleys-comet"
+  },
+  {
+   "id": "small-E-029",
+   "topic": "small",
+   "level": "explorer",
+   "q": "What is the biggest object in the asteroid belt?",
+   "options": [
+    "Halley",
+    "Vesta",
+    "Bennu",
+    "Ceres"
+   ],
+   "answer": 3,
+   "fact": "Ceres is a dwarf planet about 950 km across.",
+   "source": "NASA Ceres",
+   "spacepedia": "ceres"
+  },
+  {
+   "id": "small-E-030",
+   "topic": "small",
+   "level": "explorer",
+   "q": "Which asteroid did NASA's OSIRIS-REx visit?",
+   "options": [
+    "Vesta",
+    "Eros",
+    "Ceres",
+    "Bennu"
+   ],
+   "answer": 3,
+   "fact": "Bennu is about the height of the Empire State Building.",
+   "source": "NASA OSIRIS-REx",
+   "spacepedia": "bennu"
+  },
+  {
+   "id": "small-E-031",
+   "topic": "small",
+   "level": "explorer",
+   "q": "Which dwarf planet was once called the ninth planet?",
+   "options": [
+    "Ceres",
+    "Eris",
+    "Pluto",
+    "Makemake"
+   ],
+   "answer": 2,
+   "fact": "Pluto was moved to the dwarf planet group in 2006.",
+   "source": "NASA Pluto",
+   "spacepedia": "pluto"
+  },
+  {
+   "id": "small-E-032",
+   "topic": "small",
+   "level": "explorer",
+   "q": "Which meteor shower happens in December?",
+   "options": [
+    "The Orionids",
+    "The Geminids",
+    "The Perseids",
+    "The Leonids"
+   ],
+   "answer": 1,
+   "fact": "The Geminids are one of the best meteor showers of the year.",
+   "source": "NASA Meteors",
+   "spacepedia": "geminids"
+  },
+  {
+   "id": "small-X-027",
+   "topic": "small",
+   "level": "expert",
+   "q": "Why is the Chelyabinsk event of 2013 remembered?",
+   "options": [
+    "A meteor shower",
+    "A comet hit the Moon",
+    "A satellite crashed",
+    "A small asteroid exploded over Russia"
+   ],
+   "answer": 3,
+   "fact": "The space rock exploded about 30 km above the ground, and its blast broke thousands of windows.",
+   "source": "NASA Planetary Defense",
+   "spacepedia": "apophis"
+  },
+  {
+   "id": "small-X-028",
+   "topic": "small",
+   "level": "expert",
+   "q": "What did NASA's DART mission test in 2022?",
+   "options": [
+    "Changing an asteroid's path",
+    "Making a new moon",
+    "Mining asteroids",
+    "Landing on a comet"
+   ],
+   "answer": 0,
+   "fact": "DART crashed into the moonlet Dimorphos and changed its orbit around Didymos.",
+   "source": "NASA DART",
+   "spacepedia": "apophis"
+  },
+  {
+   "id": "small-X-029",
+   "topic": "small",
+   "level": "expert",
+   "q": "Which asteroid will pass very close to Earth in April 2029?",
+   "options": [
+    "Bennu",
+    "Ceres",
+    "Apophis",
+    "Eros"
+   ],
+   "answer": 2,
+   "fact": "Apophis will pass about 32,000 km from Earth, closer than some satellites, and will be visible to the naked eye.",
+   "source": "NASA Apophis",
+   "spacepedia": "apophis"
+  },
+  {
+   "id": "small-X-030",
+   "topic": "small",
+   "level": "expert",
+   "q": "What is the name of the dwarf planet with a moon called Dysnomia?",
+   "options": [
+    "Eris",
+    "Pluto",
+    "Haumea",
+    "Ceres"
+   ],
+   "answer": 0,
+   "fact": "Eris is a bit smaller than Pluto but more massive.",
+   "source": "NASA Eris",
+   "spacepedia": "eris"
+  },
+  {
+   "id": "small-X-031",
+   "topic": "small",
+   "level": "expert",
+   "q": "Which comet was bright in 1997 and could be seen with the naked eye for months?",
+   "options": [
+    "Encke",
+    "Tempel 1",
+    "Halley",
+    "Hale-Bopp"
+   ],
+   "answer": 3,
+   "fact": "Hale-Bopp was visible for about 18 months.",
+   "source": "NASA Hale-Bopp",
+   "spacepedia": "hale-bopp"
+  },
+  {
+   "id": "small-X-032",
+   "topic": "small",
+   "level": "expert",
+   "q": "What is the Kuiper Belt object that New Horizons flew past in 2015?",
+   "options": [
+    "Haumea",
+    "Makemake",
+    "Pluto",
+    "Eris"
+   ],
+   "answer": 2,
+   "fact": "New Horizons showed Pluto's heart-shaped plain, mountains of ice and a thin blue haze.",
+   "source": "NASA New Horizons",
+   "spacepedia": "new-horizons"
+  },
+  {
+   "id": "history-E-027",
+   "topic": "history",
+   "level": "explorer",
+   "q": "What year did Yuri Gagarin become the first person in space?",
+   "options": [
+    "1951",
+    "1961",
+    "1981",
+    "1971"
+   ],
+   "answer": 1,
+   "fact": "Gagarin's flight on Vostok 1 lasted 108 minutes.",
+   "source": "NASA History",
+   "spacepedia": "iss",
+   "rocket": "vostok",
+   "capsule": "vostok"
+  },
+  {
+   "id": "history-E-028",
+   "topic": "history",
+   "level": "explorer",
+   "q": "What was Apollo 11's lander called?",
+   "options": [
+    "Columbia",
+    "Challenger",
+    "Discovery",
+    "Eagle"
+   ],
+   "answer": 3,
+   "fact": "Apollo 11's lander was called Eagle and its command module was named Columbia.",
+   "source": "NASA Apollo 11",
+   "spacepedia": "apollo-11"
+  },
+  {
+   "id": "history-E-029",
+   "topic": "history",
+   "level": "explorer",
+   "q": "Which space telescope was launched in 1990 and has been working for decades?",
+   "options": [
+    "Kepler",
+    "Hubble",
+    "Webb",
+    "Chandra"
+   ],
+   "answer": 1,
+   "fact": "Astronauts have repaired and upgraded Hubble on five shuttle missions.",
+   "source": "NASA Hubble",
+   "spacepedia": "hubble"
+  },
+  {
+   "id": "history-E-030",
+   "topic": "history",
+   "level": "explorer",
+   "q": "What did Voyager 1 become the first to do?",
+   "options": [
+    "Orbit the Sun",
+    "Leave the Solar System's heliosphere",
+    "Fly past Pluto",
+    "Land on Mars"
+   ],
+   "answer": 1,
+   "fact": "Voyager 1 entered interstellar space in 2012, and it is now the most distant human-made object.",
+   "source": "NASA Voyager",
+   "spacepedia": "voyager-1"
+  },
+  {
+   "id": "history-E-031",
+   "topic": "history",
+   "level": "explorer",
+   "q": "What did Neil Armstrong say as he stepped on the Moon?",
+   "options": [
+    "One small step for man, one giant leap for mankind",
+    "The Eagle has landed",
+    "Houston, we have a problem",
+    "We came in peace"
+   ],
+   "answer": 0,
+   "fact": "Armstrong's words are some of the most famous of the 20th century.",
+   "source": "NASA Apollo 11",
+   "spacepedia": "apollo-11"
+  },
+  {
+   "id": "history-E-032",
+   "topic": "history",
+   "level": "explorer",
+   "q": "Which country launched Sputnik?",
+   "options": [
+    "The Soviet Union",
+    "The USA",
+    "China",
+    "Britain"
+   ],
+   "answer": 0,
+   "fact": "The Soviet Union launched the first satellite and started the Space Race.",
+   "source": "NASA Sputnik",
+   "spacepedia": "sputnik-1"
+  },
+  {
+   "id": "history-X-027",
+   "topic": "history",
+   "level": "expert",
+   "q": "Which Space Shuttle was lost in 1986 shortly after launch?",
+   "options": [
+    "Columbia",
+    "Challenger",
+    "Atlantis",
+    "Endeavour"
+   ],
+   "answer": 1,
+   "fact": "Challenger broke apart 73 seconds after launch on 28 January 1986, killing all seven crew.",
+   "source": "NASA Space Shuttle",
+   "spacepedia": "space-shuttle"
+  },
+  {
+   "id": "history-X-028",
+   "topic": "history",
+   "level": "expert",
+   "q": "Which year did the last Space Shuttle mission end?",
+   "options": [
+    "2011",
+    "2005",
+    "2015",
+    "2001"
+   ],
+   "answer": 0,
+   "fact": "Atlantis landed on 21 July 2011, ending the 30-year Shuttle programme.",
+   "source": "NASA Space Shuttle",
+   "spacepedia": "space-shuttle",
+   "rocket": "space-shuttle"
+  },
+  {
+   "id": "history-X-029",
+   "topic": "history",
+   "level": "expert",
+   "q": "What was the first image from Webb's science programme famous for?",
+   "options": [
+    "A deep field full of galaxies",
+    "A comet",
+    "A picture of Mars",
+    "The Moon"
+   ],
+   "answer": 0,
+   "fact": "The first full-colour deep field was released in July 2022.",
+   "source": "NASA Webb",
+   "spacepedia": "jwst"
+  },
+  {
+   "id": "history-X-030",
+   "topic": "history",
+   "level": "expert",
+   "q": "Which spacecraft first flew past Pluto?",
+   "options": [
+    "Cassini",
+    "New Horizons",
+    "Voyager 1",
+    "Galileo"
+   ],
+   "answer": 1,
+   "fact": "New Horizons flew by Pluto on 14 July 2015 after a nine-year journey.",
+   "source": "NASA New Horizons",
+   "spacepedia": "new-horizons"
+  },
+  {
+   "id": "history-X-031",
+   "topic": "history",
+   "level": "expert",
+   "q": "Which mission studied Saturn for 13 years until 2017?",
+   "options": [
+    "Cassini",
+    "Juno",
+    "Galileo",
+    "Voyager 2"
+   ],
+   "answer": 0,
+   "fact": "Cassini discovered ocean plumes on Enceladus and landed the Huygens probe on Titan.",
+   "source": "NASA Cassini",
+   "spacepedia": "cassini"
+  },
+  {
+   "id": "history-X-032",
+   "topic": "history",
+   "level": "expert",
+   "q": "Who discovered Uranus in 1781?",
+   "options": [
+    "Isaac Newton",
+    "William Herschel",
+    "Galileo",
+    "Edwin Hubble"
+   ],
+   "answer": 1,
+   "fact": "Herschel first thought it was a comet, then realised it was a planet.",
+   "source": "NASA Uranus Facts",
+   "spacepedia": "uranus"
   }
  ]
 }
